@@ -1,0 +1,2 @@
+# Python-Exception-Handling-and-Debugging-From-Fundamentals-to-Defensive-Programming
+A practical Python learning project covering exception handling, debugging, and defensive programming. Explore try-except-else-finally, custom exceptions, exception propagation, exception chaining, input validation, retry mechanisms, file handling, and robust data processing through structured exercises and real-world scenarios.
